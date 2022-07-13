@@ -1,0 +1,26 @@
+{
+  "name": "classes-quick-lecture",
+  "version": "1.0.0",
+  "description": "A quick lecture about classes before the exam on the first phase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest spec/*.js -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grentank/classes-quick-lecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grentank/classes-quick-lecture/issues"
+  },
+  "homepage": "https://github.com/grentank/classes-quick-lecture#readme",
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.1.2"
+  }
+}
